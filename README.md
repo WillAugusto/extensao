@@ -1,6 +1,7 @@
 # exemplo de rotina logica
 
-1 – Coloque uma escada embaixo da lâmpada
+
+#1 – Coloque uma escada embaixo da lâmpada
 queimada.
 2 – Suba na escada até alcançar a lâmpada
 queimada.
